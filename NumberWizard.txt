@@ -1,0 +1,23 @@
+Cooments:
+// put single line comments here\
+
+/* 
+Put multi-line comments in the middle
+of the symbols 
+*/
+
+Output data to console
+Debug.Log()
+
+if (Input.GetKeyDown(KeyCode.UpArrow))
+Input is the class
+GetKeyDown is the funcation
+KeyCode specific key
+UpArrow the key itself
+
+** Common Error 
+No spoces in Names!!!
+Spolling! Examps: log & Log 
+Examp erow message: 
+Assets/script/numberwizard.cs(10,15): error CS0117: 'Debug' does not containe a definition for 'log'
+
